@@ -41,7 +41,7 @@ I may push a version in the future to remove the later dependencies and implemen
 
 If my project helped you recover something, I'd appreciate a tip!
 
-KingZee : 1KingZeeW97uLvngcUA3R6QJx18Fn78ddb
+KingZee : 3NB27agkzu9EvfaqJDcztHRV2Fq2VPEHqh
 
 Distributed under the GPLv3 license. See ``LICENSE`` for more information.
 
